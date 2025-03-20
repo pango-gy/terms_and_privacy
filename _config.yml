@@ -1,6 +1,8 @@
-title: null
-name: null
+title: 법적 문서
+name: 하드타임
+description: 이용약관 및 개인정보처리방침
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
 header_pages: []
+baseurl: ""

@@ -1,4 +1,9 @@
-# terms_and_privacy
+---
+layout: default
+title: 홈
+---
+
+# 법적 문서
 
 이용약관과 개인정보처리방침
 
