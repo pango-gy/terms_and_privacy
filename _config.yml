@@ -3,6 +3,10 @@ name: 하드타임
 description: 이용약관 및 개인정보처리방침
 github:
   is_project_page: false
-theme: jekyll-theme-minimal
+theme: null
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
 header_pages: []
 baseurl: ""
