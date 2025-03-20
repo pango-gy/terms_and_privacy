@@ -1,13 +1,8 @@
----
-layout: default
-title: 홈
----
-
 # 법적 문서
 
-이용약관과 개인정보처리방침
+이용약관과 개인정보처리방침을 작성하기 위한 저장소입니다.
 
 ## 문서 구성
 
-- [이용약관](hard_time/terms/)
-- [개인정보처리방침](hard_time/privacy/)
+- [고생시간 이용약관](hard_time/terms/)
+- [고생시간 개인정보처리방침](hard_time/privacy/)
