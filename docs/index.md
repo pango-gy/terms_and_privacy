@@ -9,7 +9,8 @@ title: 이용약관 및 개인정보처리방침
 
 ## 서비스 목록
 
-- [고생시간 이용약관](./hard_time/terms)
-- [고생시간 개인정보처리방침](./hard_time/privacy)
+- [고생시간 개요](./hard_time/index.md)
+- [고생시간 이용약관](./hard_time/terms.md)
+- [고생시간 개인정보처리방침](./hard_time/privacy.md)
 
 추가 서비스가 있다면 여기에 목록을 업데이트하세요.
