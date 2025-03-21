@@ -1,6 +1,14 @@
 <style type="text/css">
-  p {
-    border: 1px solid black;
+  h1 {
+    border-bottom: 0px solid #eaecef !important;
+  }
+
+  h2 {
+    border-bottom: 0px solid #eaecef !important;
+  }
+
+  hr {
+    background-color: white !important;
   }
 </style>
 
