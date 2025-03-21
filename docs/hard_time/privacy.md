@@ -1,7 +1,16 @@
----
-layout: default
-title: 고생시간 개인정보처리방침
----
+<style type="text/css">
+  h1 {
+    border-bottom: 0px solid #eaecef !important;
+  }
+
+  h2 {
+    border-bottom: 0px solid #eaecef !important;
+  }
+
+  hr {
+    background-color: white !important;
+  }
+</style>
 
 # 고생시간 개인정보처리방침
 
