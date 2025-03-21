@@ -1,3 +1,9 @@
+<style type="text/css">
+  p {
+    border: 1px solid black;
+  }
+</style>
+
 # 고생시간 앱 이용약관
 
 ## 제1조 (목적)
