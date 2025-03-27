@@ -13,4 +13,8 @@ title: 이용약관 및 개인정보처리방침
 - [고생시간 이용약관](./hard_time/terms.md)
 - [고생시간 개인정보처리방침](./hard_time/privacy.md)
 
+- [팡고제트 개요](./pango_jett/index.md)
+- [팡고제트 이용약관](./pango_jett/terms.md)
+- [팡고제트 개인정보처리방침](./pango_jett/privacy.md)
+
 추가 서비스가 있다면 여기에 목록을 업데이트하세요.
