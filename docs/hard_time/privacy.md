@@ -161,10 +161,10 @@
      - 연락처: 010-7700-1837
 
 2) 기타 개인정보침해에 대한 신고나 상담이 필요하신 경우에는 아래 기관에 문의하시기 바랍니다.
-   
-   - [개인정보침해신고센터](http://privacy.kisa.or.kr) ☎ 국번없이 118
-   - [대검찰청 사이버범죄수사단](http://www.spo.go.kr) ☎ 국번없이 1301
-   - [경찰청 사이버안전국](http://cyberbureau.police.go.kr) ☎ 국번없이 182
+
+ - [개인정보침해신고센터](http://privacy.kisa.or.kr) ☎ 국번없이 118
+ - [대검찰청 사이버범죄수사단](http://www.spo.go.kr) ☎ 국번없이 1301
+ - [경찰청 사이버안전국](http://cyberbureau.police.go.kr) ☎ 국번없이 182
 
 ---
 
