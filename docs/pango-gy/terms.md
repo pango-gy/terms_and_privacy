@@ -155,22 +155,30 @@
 7. 이용자는 허용되지 않은 침입자로부터 안전하게 보호받을 수 있도록 시스템 운영과 관련한 정기적인 백신프로그램 등의 보안 업데이트를 하여야 하며, 이를 소홀히 하여 발생한 보안 사고, 손해 등에 대하여 회사는 책임을 지지 않습니다.
 8. 이용자는 서비스 이용과 관련하여 이메일 내용 등의 각종 데이터 등에 대해 별도로 상시 저장할 의무가 있으며, 이를 소홀히 하여 발생한 정보의 유출, 누락 또는 자료의 손실에 대해 회사는 책임을 지지 않습니다.
 9. 이용자는 서비스에서 활용하는 광고 매체의 정책을 준수하여햐 합니다.
+    
    a. Google
    - [광고 정책](https://support.google.com/adspolicy/answer/54818?hl=en)
    - [애널리틱스 약관](https://marketingplatform.google.com/about/analytics/terms/kr/)
+
    b. YouTube
    - [YouTube 서비스 약관](https://www.youtube.com/t/terms)
+
    c. Naver
     - [네이버 검색광고 약관](https://ads.naver.com/adguide)
+
    d. Meta
     - [Meta 서비스 약관](https://www.facebook.com/legal/terms)
+
    e. 카카오
    - [카카오비즈니스 이용약관](https://kakaobusiness-policy.kakao.com/SERVICE)
+
    f. TikTok
    - [TikTok 서비스 약관](https://www.tiktok.com/legal/page/row/terms-of-service/ko)
+
    g. Twitter
     - [Twitter 약관](https://x.com/ko/tos)
-10. 이용자는 관계법령, 본 약관의 규정, 이용 안내 및 서비스와 관련하여 공지한 주의사항, 회사가 통지하는 사항 등을 준수하여야 하며, 기타 회사의 업무에 방해되는 행위를 하여서는 안 됩니다.
+
+11. 이용자는 관계법령, 본 약관의 규정, 이용 안내 및 서비스와 관련하여 공지한 주의사항, 회사가 통지하는 사항 등을 준수하여야 하며, 기타 회사의 업무에 방해되는 행위를 하여서는 안 됩니다.
 
 **제15조 권리의 귀속**
 
