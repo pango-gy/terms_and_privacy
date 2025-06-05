@@ -1,17 +1,3 @@
-<style type="text/css">
-  h1 {
-    border-bottom: 0px solid #eaecef !important;
-  }
-
-  h2 {
-    border-bottom: 0px solid #eaecef !important;
-  }
-
-  hr {
-    background-color: white !important;
-  }
-</style>
-
 # 고생시간 개인정보처리방침
 
 팡고지와이 주식회사(이하 “회사”)은 『정보통신망 이용촉진 및 정보보호 등에 관한 법률』(이하 “정보통신망법”), 『개인정보 보호법』 등 관련 법령상의 개인정보 보호규정을 준수하며, 정보통신망법에 의거한 개인정보처리방침을 정하여 이용자 권익보호에 최선을 다하고 있습니다. 본 개인정보처리방침은 회사가 제공하는 앱 서비스에 적용되며 다음과 같은 내용을 포함하고 있습니다.
