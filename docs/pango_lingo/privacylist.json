@@ -1,9 +1,7 @@
-{
-  "urls": [
-    {
-      "id": 1,
-      "date": "2025-09-02",
-      "url": "https://raw.githubusercontent.com/pango-gy/terms_and_privacy/refs/heads/main/docs/pango_lingo/20250902terms.md"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "date": "2025-09-02",
+    "url": "https://raw.githubusercontent.com/pango-gy/terms_and_privacy/refs/heads/main/docs/pango_lingo/20250902privacy.md"
+  }
+]
