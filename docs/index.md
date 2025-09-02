@@ -17,4 +17,9 @@ title: 이용약관 및 개인정보처리방침
 - [팡고제트 이용약관](./pango_jett/terms.md)
 - [팡고제트 개인정보처리방침](./pango_jett/privacy.md)
 
+- [팡고링고 개요](./pango_lingo/index.md)
+- [팡고링고 이용약관](./pango_lingo/terms.md)
+- [팡고링고 개인정보처리방침](./pango_lingo/privacy.md)
+- [팡고링고 FAQ](./pango_lingo/faq.md)
+
 추가 서비스가 있다면 여기에 목록을 업데이트하세요.
