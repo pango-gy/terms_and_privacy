@@ -3,7 +3,7 @@
 팡고지와이㈜(이하 '회사')는 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」(이하 ‘정보통신망법’), 「개인정보보호법」 등 관련 법에 따라 이용자의 개인정보 보호 및 권익을 보호하고 개인정보와 관련한 이용자의 고충을 원활하게 처리할 수 있도록 다음과 같은 처리방침을 두고 있습니다.
 
 회사는 개인정보처리방침을 개정하는 경우 개별 공지(또는 웹사이트 공지사항)를 통하여 공지합니다.  
-**본 방침은 2024년 03월 05일부터 시행됩니다.**
+**본 방침은 2026년 06월 24일부터 시행됩니다.**
 
 ---
 
@@ -152,6 +152,44 @@
 - [권한 해제 링크](https://myaccount.google.com/permissions)  
 - Google 정책 준수
 
+### Google 사용자 데이터의 제공·공유 (Sharing of Google User Data)
+
+회사는 Google API(Google Workspace API 포함)를 통해 접근·취득한 Google 사용자 데이터를 판매하지 않으며, 서비스 제공에 필요한 범위 내에서 비밀유지 의무를 부담하는 아래의 수탁사(서비스 제공업체)에 한해 처리를 위탁하거나 전송합니다.
+
+| 수탁사 | 위탁·전송 목적 |
+| --- | --- |
+| **Amazon Web Services, Inc. (AWS)** | 서버 호스팅 및 인프라 운영 |
+| **Google Cloud / Firebase (Google LLC)** | 연동 인증정보 및 데이터 저장·조회 |
+| **Datadog, Inc.** | 서비스 모니터링 및 장애 대응 |
+| **AI 모델 제공자 (Anthropic PBC / OpenAI, L.L.C. 등 이용자가 선택한 제공자)** | 이용자가 요청한 AI 분석·대화 기능 제공 |
+
+이 밖에 회사는 다음의 경우에만 Google 사용자 데이터를 제공·공개합니다.
+
+- **법령에 따른 경우**: 관계 법령, 수사기관의 적법한 요청, 법적 절차에 따라 요구되는 경우
+- **이용자가 사전에 명시적으로 동의한 경우**
+
+위에 명시한 경우를 제외하고, 회사는 Google 사용자 데이터를 제3자에게 제공·공유하지 않습니다.
+
+### Google API 데이터의 제한적 사용 (Limited Use)
+
+Google API로부터 받은 정보의 사용 및 전송은 제한적 사용(Limited Use) 요건을 포함한 Google API 서비스 사용자 데이터 정책(Google API Services User Data Policy)을 준수합니다. 구체적으로 회사는 다음을 준수합니다.
+
+- 본 서비스의 기능 제공에 필요한 최소한의 Google 사용자 데이터만을 요청합니다.
+- Google 사용자 데이터를 광고 제공 목적으로 사용하지 않습니다.
+- 이용자의 명시적 동의, 보안 목적, 또는 법령상 요구가 없는 한 임직원이 Google 사용자 데이터를 열람하지 않습니다.
+- Google 사용자 데이터를 범용(generalized)·비개인화(non-personalized) AI·ML 모델의 개발·학습·개선 목적으로 사용하거나 이전하지 않습니다. AI 분석·대화 기능을 위해 데이터가 이용자가 선택한 AI 제공자(예: Anthropic, OpenAI)에게 전송되는 경우에도, 이는 이용자가 직접 요청한 기능을 제공하기 위한 것이며 모델 학습에 사용되지 않습니다.
+- Google 사용자 데이터를 제3자에게 판매하지 않습니다.
+
+**Google API Limited Use Compliance Statement**
+
+Pango Neuro's use and transfer of information received from Google APIs to any other app will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements. Specifically, Pango Neuro:
+
+- Only requests access to Google user data that is necessary for the features described in this application.
+- Does not use Google user data for serving advertisements.
+- Does not allow humans to read Google user data unless the user has given explicit permission, it is necessary for security purposes, or it is required by law.
+- Does not use or transfer Google user data to develop, improve, or train generalized or non-personalized AI or ML models.
+- Does not sell Google user data to third parties.
+
 ### 관련 링크
 - [YouTube 서비스 약관](https://www.youtube.com/t/terms)  
 - [YouTube API 정책](https://developers.google.com/terms/api-services-user-data-policy)  
@@ -163,7 +201,8 @@
 ## 제12조. OpenAI API 이용약관
 
 - 회원이 동의한 범위에서 API 데이터 수집
-- 제3자 공유 없음, OpenAI 정책 준수
+- 이용자가 AI 분석·대화 기능에 OpenAI 모델을 사용하는 경우, 해당 기능 제공을 위해 필요한 범위에서만 OpenAI에 데이터가 전송되며 그 외 제3자에게 공유하지 않음 (자세한 내용은 제11조 참조)
+- OpenAI 정책 준수, 모델 학습 목적 미사용
 
 ### 관련 링크
 - [OpenAI 서비스 약관](https://openai.com/policies/terms-of-use)  
