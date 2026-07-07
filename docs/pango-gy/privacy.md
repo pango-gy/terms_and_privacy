@@ -232,6 +232,33 @@ Pango Neuro's use and transfer of information received from Google APIs to any o
 
 ---
 
-## 제15조. 개인정보처리방침 변경 안내
+## 제15조. Pinterest API 이용약관
+
+회사는 Pinterest API를 사용하여 이용자가 연동한 Pinterest 계정의 데이터를 조회·중계(relay)합니다. 회사는 API 중계 서비스로서 Pinterest 콘텐츠·API 응답 데이터를 자체적으로 저장하지 않으며, 이용자가 동의하고 연동한 범위 내에서만 요청을 처리하고 Pinterest 정책을 준수합니다.
+
+- **Pinterest API 사용 및 비제휴 고지**  
+  본 서비스는 Pinterest API를 사용합니다. 본 서비스(사이트/앱)는 Pinterest로부터 보증받거나 후원받지 않으며, Pinterest와 어떠한 제휴·협력 관계도 아닙니다. Pinterest 및 관련 상표는 Pinterest, Inc.의 자산입니다.
+
+- **수집·저장하는 데이터의 범위**  
+  회사는 Pinterest API를 통해 취득한 콘텐츠·응답 데이터를 서버에 저장·보관하지 않고, 이용자 요청을 처리하기 위한 목적에 한해 일시적으로만 처리합니다. 다만 이용자의 Pinterest 계정 연동 상태를 유지하기 위해 필요한 **OAuth 인증 토큰(액세스 토큰·리프레시 토큰)은 암호화하여 저장**합니다.
+
+- **연결 해제 시 처리**  
+  회사가 일시적으로 처리하는 Pinterest 콘텐츠·응답 데이터는 별도로 저장하지 않으므로 삭제할 저장본이 존재하지 않습니다. 이용자가 Pinterest 계정 연동을 해제(disconnect)하는 경우, 회사가 저장한 OAuth 인증 토큰은 지체 없이 삭제·폐기(revoke)되며 회사의 Pinterest 데이터에 대한 접근 권한은 즉시 중단됩니다.
+
+- **제3자 재판매·재배포 금지**  
+  회사는 Pinterest 콘텐츠 또는 Pinterest API를 통해 취득한 Pinterest 파생 데이터를 제3자에게 판매·재판매하거나 재배포하지 않습니다.
+
+**Pinterest API Disclosure (English)**
+
+This service uses the Pinterest API but is not endorsed, sponsored by, or affiliated with Pinterest. As an API relay service, the company does not store or retain Pinterest content or API response data on its servers; such data is processed only transiently to fulfill the user's request. The company does store the OAuth authentication tokens (access and refresh tokens) required to maintain the user's Pinterest connection, in encrypted form. When a user disconnects their Pinterest account, these stored tokens are deleted and revoked without undue delay, and the company's access to Pinterest data ceases immediately. The company does not resell or redistribute Pinterest content or Pinterest-derived data to any third party.
+
+### 관련 링크
+- [Pinterest 서비스 약관](https://policy.pinterest.com/ko/terms-of-service)  
+- [Pinterest 개인정보처리방침](https://policy.pinterest.com/ko/privacy-policy)  
+- [Pinterest 개발자 약관](https://developers.pinterest.com/terms/)
+
+---
+
+## 제16조. 개인정보처리방침 변경 안내
 
 본 개인정보처리방침은 시행일부터 적용되며, 변경 시 최소 7일 전 홈페이지를 통해 고지합니다.
