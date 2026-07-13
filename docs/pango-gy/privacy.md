@@ -76,9 +76,9 @@ AWS 및 Google Cloud/Firebase를 통해 저장·처리되는 개인정보는 국
 
 | 이전받는 자 (연락처) | 이전 국가 | 이전 일시 및 방법 | 이전되는 개인정보 항목 | 이용목적 및 보유·이용기간 |
 | --- | --- | --- | --- | --- |
-| **Anthropic PBC**<br>privacy@anthropic.com | 미국 | 이용자가 AI 분석·대화 기능을 이용하는 시점에 정보통신망을 통해 전송 | 이용자가 입력·요청한 데이터(질의 내용, 분석 대상 광고·마케팅 데이터 등) | AI 분석·대화 기능 제공. 이용자 요청 처리에 필요한 기간(요청 처리 후 상업용 API 정책에 따라 파기, 모델 학습에 미사용) |
-| **OpenAI, L.L.C.**<br>privacy@openai.com | 미국 | 이용자가 AI 분석·대화 기능을 이용하는 시점에 정보통신망을 통해 전송 | 이용자가 입력·요청한 데이터(질의 내용, 분석 대상 광고·마케팅 데이터 등) | AI 분석·대화 기능 제공. 이용자 요청 처리에 필요한 기간(모델 학습에 미사용) |
-| **Datadog, Inc.**<br>privacy@datadoghq.com | 미국 (app.datadoghq.com, US1 리전) | 서비스 이용 시 정보통신망을 통해 전송 | 서비스 이용기록, 로그, 접속 정보 | 서비스 모니터링 및 장애 대응. 위탁계약 종료 시 또는 보유기간 만료 시까지 |
+| **Anthropic PBC** (privacy@anthropic.com) | 미국 | 이용자가 AI 분석·대화 기능을 이용하는 시점에 정보통신망을 통해 전송 | 이용자가 입력·요청한 데이터(질의 내용, 분석 대상 광고·마케팅 데이터 등) | AI 분석·대화 기능 제공. 이용자 요청 처리에 필요한 기간(요청 처리 후 상업용 API 정책에 따라 파기, 모델 학습에 미사용) |
+| **OpenAI, L.L.C.** (privacy@openai.com) | 미국 | 이용자가 AI 분석·대화 기능을 이용하는 시점에 정보통신망을 통해 전송 | 이용자가 입력·요청한 데이터(질의 내용, 분석 대상 광고·마케팅 데이터 등) | AI 분석·대화 기능 제공. 이용자 요청 처리에 필요한 기간(모델 학습에 미사용) |
+| **Datadog, Inc.** (privacy@datadoghq.com) | 미국 (app.datadoghq.com, US1 리전) | 서비스 이용 시 정보통신망을 통해 전송 | 서비스 이용기록, 로그, 접속 정보 | 서비스 모니터링 및 장애 대응. 위탁계약 종료 시 또는 보유기간 만료 시까지 |
 
 > ※ AWS 및 Google Cloud/Firebase를 통해 저장·처리되는 개인정보는 국내(서울 리전)에 저장되므로 국외 이전에 해당하지 않으며, 처리위탁 사항은 제4조에 기재되어 있습니다.
 
@@ -172,7 +172,30 @@ AWS 및 Google Cloud/Firebase를 통해 저장·처리되는 개인정보는 국
 
 ---
 
-## 제13조. Google/YouTube API 서비스 이용약관
+## 제13조. 연동 서비스 및 광고·마케팅 매체
+
+회사는 이용자가 직접 연동(계정 인증)한 외부 서비스의 API를 통해, 이용자가 동의한 범위 내에서 데이터를 조회·처리하여 광고·마케팅 분석 및 자료 생성 기능을 제공합니다. 현재 연동 가능한 서비스는 다음과 같습니다.
+
+| 구분 | 연동 서비스 |
+| --- | --- |
+| 광고 매체 | Google Ads, Meta Ads, Instagram Creator Marketplace, 네이버 검색광고(Naver Search Ads), Kakao Moment, TikTok Ads, TikTok Creator Marketplace, Pinterest Ads, Microsoft Ads, Criteo Ads, Apple Search Ads, Amazon Ads, DV360, ChatGPT Ads |
+| 분석·측정 | Google Analytics(GA4), Google Tag Manager(GTM), Google Search Console(GSC), AppsFlyer |
+| 커머스 | 네이버 커머스(Naver Commerce) |
+| 문서·협업 | Google Docs, Google Sheets, Notion |
+
+위 연동 서비스에 대하여 회사는 공통적으로 다음 원칙을 준수합니다.
+
+- 이용자가 연동·인증하고 동의한 범위 내의 데이터만 조회·처리합니다.
+- 각 서비스로부터 취득한 데이터를 제3자에게 판매하거나 제3자의 독자적 목적을 위해 제공하지 않습니다.
+- 다만 이용자가 요청한 서비스 제공(AI 분석·대화 기능, 인프라 운영·모니터링 등)에 필요한 처리위탁 및 국외 이전은 제4조·제5조에 따릅니다.
+- 각 서비스 제공자의 API 약관 및 개인정보 정책을 준수합니다.
+- 이용자는 각 서비스의 계정 설정 또는 회사에 대한 요청을 통해 연동을 해제할 수 있으며, 해제 시 회사의 해당 데이터에 대한 접근 권한은 즉시 중단됩니다.
+
+일부 서비스는 제공자의 정책상 추가 고지가 요구되어 아래 조항에서 개별적으로 정합니다: Google/YouTube(제14조), OpenAI(제15조), Anthropic(제16조), Meta(제17조), TikTok(제18조), Pinterest(제19조).
+
+---
+
+## 제14조. Google/YouTube API 서비스 이용약관
 
 - API 데이터는 이용자가 동의한 범위 내에서 수집  
 - [권한 해제 링크](https://myaccount.google.com/permissions)  
@@ -224,10 +247,10 @@ Pango Neuro's use and transfer of information received from Google APIs to any o
 
 ---
 
-## 제14조. OpenAI API 이용약관
+## 제15조. OpenAI API 이용약관
 
 - 회원이 동의한 범위에서 API 데이터 수집
-- 이용자가 AI 분석·대화 기능에 OpenAI 모델을 사용하는 경우, 해당 기능 제공을 위해 필요한 범위에서만 OpenAI에 데이터가 전송되며 그 외 제3자에게 공유하지 않음 (자세한 내용은 제13조 및 제5조 참조)
+- 이용자가 AI 분석·대화 기능에 OpenAI 모델을 사용하는 경우, 해당 기능 제공을 위해 필요한 범위에서만 OpenAI에 데이터가 전송되며 그 외 제3자에게 공유하지 않음 (자세한 내용은 제14조 및 제5조 참조)
 - OpenAI 정책 준수, 모델 학습 목적 미사용
 
 ### 관련 링크
@@ -236,7 +259,7 @@ Pango Neuro's use and transfer of information received from Google APIs to any o
 
 ---
 
-## 제15조. Anthropic(Claude) API 이용약관
+## 제16조. Anthropic(Claude) API 이용약관
 
 본 서비스의 AI 분석·대화 기능은 주로 Anthropic PBC가 제공하는 Claude 모델을 통해 처리됩니다.
 
@@ -253,10 +276,11 @@ Pango Neuro's use and transfer of information received from Google APIs to any o
 
 ---
 
-## 제16조. Meta API 이용약관
+## 제17조. Meta API 이용약관
 
 - Meta API 사용 시 동의한 정보만 수집
-- 제3자 공유 없음, Meta 정책 준수
+- 회사는 Meta API를 통해 취득한 데이터를 제3자에게 판매하거나 그 제3자의 독자적 목적을 위해 제공하지 않습니다. 다만 이용자가 요청한 서비스 제공(AI 분석·대화 기능, 인프라 운영·모니터링 등)에 필요한 처리위탁 및 국외 이전은 제4조·제5조에 따릅니다.
+- Meta 정책 준수
 
 ### 관련 링크
 - [Meta 서비스 약관](https://www.facebook.com/legal/terms)  
@@ -264,10 +288,11 @@ Pango Neuro's use and transfer of information received from Google APIs to any o
 
 ---
 
-## 제17조. TikTok API 이용약관
+## 제18조. TikTok API 이용약관
 
 - TikTok API 사용 시 동의한 정보만 수집
-- 제3자 공유 없음, TikTok 정책 준수
+- 회사는 TikTok API를 통해 취득한 데이터를 제3자에게 판매하거나 그 제3자의 독자적 목적을 위해 제공하지 않습니다. 다만 이용자가 요청한 서비스 제공(AI 분석·대화 기능, 인프라 운영·모니터링 등)에 필요한 처리위탁 및 국외 이전은 제4조·제5조에 따릅니다.
+- TikTok 정책 준수
 
 ### 관련 링크
 - [TikTok 서비스 약관](https://www.tiktok.com/legal/page/row/terms-of-service/ko)  
@@ -275,14 +300,14 @@ Pango Neuro's use and transfer of information received from Google APIs to any o
 
 ---
 
-## 제18조. Pinterest API 이용약관
+## 제19조. Pinterest API 이용약관
 
 회사는 Pinterest API를 사용하여 이용자가 연동한 Pinterest 계정의 데이터를 조회·중계(relay)합니다. 회사는 API 중계 서비스로서 Pinterest 콘텐츠·API 응답 데이터를 자체적으로 저장하지 않으며, 이용자가 동의하고 연동한 범위 내에서만 요청을 처리하고 Pinterest 정책을 준수합니다.
 
 - **Pinterest API 사용 및 비제휴 고지** — 본 서비스는 Pinterest API를 사용합니다. 본 서비스(사이트/앱)는 Pinterest로부터 보증받거나 후원받지 않으며, Pinterest와 어떠한 제휴·협력 관계도 아닙니다. Pinterest 및 관련 상표는 Pinterest, Inc.의 자산입니다.
 - **수집·저장하는 데이터의 범위** — 회사는 Pinterest API를 통해 취득한 콘텐츠·응답 데이터를 서버에 저장·보관하지 않고, 이용자 요청을 처리하기 위한 목적에 한해 일시적으로만 처리합니다. 다만 이용자의 Pinterest 계정 연동 상태를 유지하기 위해 필요한 OAuth 인증 토큰(액세스 토큰·리프레시 토큰)은 암호화하여 저장합니다.
 - **연결 해제 시 처리** — 회사가 일시적으로 처리하는 Pinterest 콘텐츠·응답 데이터는 별도로 저장하지 않으므로 삭제할 저장본이 존재하지 않습니다. 이용자가 Pinterest 계정 연동을 해제(disconnect)하는 경우, 회사가 저장한 OAuth 인증 토큰은 지체 없이 삭제·폐기(revoke)되며 회사의 Pinterest 데이터에 대한 접근 권한은 즉시 중단됩니다.
-- **제3자 재판매·재배포 금지** — 회사는 Pinterest 콘텐츠 또는 Pinterest API를 통해 취득한 Pinterest 파생 데이터를 제3자에게 판매·재판매하거나 재배포하지 않습니다.
+- **제3자 재판매·재배포 금지** — 회사는 Pinterest 콘텐츠 또는 Pinterest API를 통해 취득한 Pinterest 파생 데이터를 제3자에게 판매·재판매하거나 재배포하지 않습니다. 다만 이용자가 요청한 서비스 제공(AI 분석·대화 기능 등)에 필요한 범위의 처리위탁 및 국외 이전은 제4조·제5조에 따릅니다.
 
 **Pinterest API Disclosure (English)**
 
@@ -295,6 +320,6 @@ This service uses the Pinterest API but is not endorsed, sponsored by, or affili
 
 ---
 
-## 제19조. 개인정보처리방침 변경 안내
+## 제20조. 개인정보처리방침 변경 안내
 
 본 개인정보처리방침은 시행일부터 적용되며, 변경 시 최소 7일 전 홈페이지를 통해 고지합니다.
